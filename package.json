@@ -1,0 +1,11 @@
+{
+  "name": "github_create_repo_script",
+  "version": "1.0.0",
+  "description": "Script for github login and creating new repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roman Tcharni",
+  "license": "ISC"
+}
