@@ -1,11 +1,11 @@
 {
   "name": "github_create_repo_script",
   "version": "1.0.0",
-  "description": "Script for github login and creating new repo",
+  "description": "Script for github login and creating new repo locally and remote",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "enterhererepo"
+    "url": "https://github.com/rtcharni/github_create_repo_script"
   },
   "scripts": {
     "start": "node index.js"
