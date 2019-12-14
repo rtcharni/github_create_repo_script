@@ -3,9 +3,16 @@
   "version": "1.0.0",
   "description": "Script for github login and creating new repo",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "enterhererepo"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "Roman Tcharni",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "*.*.*"
+  }
 }
